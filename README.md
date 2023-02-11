@@ -18,7 +18,7 @@
 ---
 
 
-* Tutorial: [https://youtu.be/PNDBjoT83zA](https://youtu.be/EkU8YhB91MI)
+* Tutorial: https://youtu.be/EkU8YhB91MI
 * Tutorial: https://cryptodeeptech.ru/crypto-wallet-protection
 
 
@@ -699,7 +699,7 @@
 
 
 
-<p><a href="https://youtu.be/" target="_blank" rel="noreferrer noopener"><strong>Video: https://youtu.be</strong></a></p>
+<p><a href="https://youtu.be/EkU8YhB91MI" target="_blank" rel="noreferrer noopener"><strong>Video: https://youtu.be/EkU8YhB91MI</strong></a></p>
 
 
 
